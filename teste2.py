@@ -31,7 +31,7 @@ while(players.__len__()>0):
     b.printBoard()
     b.move()
     separation()
-    # time.sleep(1/120)
+    #time.sleep(1/10)
 
 b.printBoard()
 
